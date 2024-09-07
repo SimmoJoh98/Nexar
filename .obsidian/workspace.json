@@ -11,9 +11,11 @@
             "id": "a771d2df7741b71a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png"
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png"
+                "file": "Overview.md"
               }
             }
           }
@@ -146,11 +148,11 @@
   },
   "active": "a771d2df7741b71a",
   "lastOpenFiles": [
-    "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
-    "Worlds/Edenis Prime.md",
     "Worlds/Nexar Prime.md",
+    "Worlds/Edenis Prime.md",
     "Overview.md",
     "Worlds/Visual Assets/Nexar Prime.png",
+    "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
     "Worlds/Visual Assets",
     "Pasted image 20240907152742.png",
     "Pasted image 20240907152737.png",
