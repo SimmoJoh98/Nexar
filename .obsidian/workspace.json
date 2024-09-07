@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "80fb0dbe235106e6",
+        "id": "8be8b0c1c69367d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e03b2b249f25a359",
+            "id": "a771d2df7741b71a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Worlds/Nexar Prime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d85b4e21205ca6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Worlds/Visual Assets/Nexar Prime.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CadenPrime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Worlds/Visual Assets/Nexar Prime.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Worlds/Visual Assets/Nexar Prime.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Worlds/Visual Assets/Nexar Prime.png"
               }
             }
           }
@@ -159,12 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d85b4e21205ca6e",
+  "active": "a771d2df7741b71a",
   "lastOpenFiles": [
+    "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
+    "Worlds/Edenis Prime.md",
     "Worlds/Nexar Prime.md",
+    "Overview.md",
+    "Worlds/Visual Assets/Nexar Prime.png",
+    "Worlds/Visual Assets",
+    "Pasted image 20240907152742.png",
+    "Pasted image 20240907152737.png",
     "Codex/Untitled.md",
     "Template Manufactory (templates)",
-    "Overview.md",
     "Worlds",
     "Welcome.md"
   ]
