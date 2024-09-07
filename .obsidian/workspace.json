@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8be8b0c1c69367d6",
+        "id": "e79da5fc915b5d4a",
         "type": "tabs",
         "children": [
           {
-            "id": "a771d2df7741b71a",
+            "id": "58d08ec3b41a888e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png"
+                "file": "Worlds/Nexar Prime.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png",
+                "file": "Worlds/Nexar Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png",
+                "file": "Worlds/Nexar Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar Prime.png"
+                "file": "Worlds/Nexar Prime.md"
               }
             }
           }
@@ -144,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a771d2df7741b71a",
+  "active": "58d08ec3b41a888e",
   "lastOpenFiles": [
-    "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
     "Worlds/Edenis Prime.md",
+    "Worlds/Visual Assets/Nexar Prime.png",
+    "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
     "Worlds/Nexar Prime.md",
     "Overview.md",
-    "Worlds/Visual Assets/Nexar Prime.png",
     "Worlds/Visual Assets",
     "Pasted image 20240907152742.png",
     "Pasted image 20240907152737.png",
