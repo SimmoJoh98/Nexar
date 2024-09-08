@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Worlds/Edenis Prime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Worlds/Edenis Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Worlds/Edenis Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Worlds/Edenis Prime.md"
               }
             }
           }
@@ -148,38 +148,37 @@
   },
   "active": "a771d2df7741b71a",
   "lastOpenFiles": [
-    "Templates/Anomaly Template.md",
-    "Factions/Visual Assets Factions",
-    "Anomalies/Visual Assets Anomalies",
-    "Materials/Visual Assets Materials",
-    "Notable characters/Visual Assets Characters",
-    "Tech/Weapons/Visual Assets Weapons",
-    "Tech/Vehicles/Visual Assets Vehicles",
-    "Tech/Notable Technological Advancements/Visual Assets Tech",
-    "Tech/Armor and shielding/Visual Assets AS",
-    "Notable characters/Visual assets",
-    "Tech/Visual Assets",
-    "Anomalies/Anomalies Overview.md",
-    "Templates/Materials Template.md",
-    "Materials/Mitsubishi Materials (Overview).md",
     "Templates/World Template.md",
-    "Templates/Character Template.md",
-    "Templates/Faction Template.md",
-    "Tech/Technologies Overview.md",
+    "Templates/Materials Template.md",
     "Templates/Tech Template.md",
-    "Factions/Faction 3.md",
-    "Factions/Faction 2.md",
-    "Factions/Faction 1.md",
-    "Factions/Factions Overview.md",
+    "Templates/Character Template.md",
+    "Templates/Anomaly Template.md",
+    "Templates/Faction Template.md",
+    "Templates",
+    "Tech/Technologies Overview.md",
+    "Tech",
     "Notable characters/Notable Characters Overview.md",
+    "Notable characters",
+    "Materials/Mitsubishi Materials (Overview).md",
+    "Materials",
+    "Factions/Factions Overview.md",
+    "Factions/Faction 2.md",
+    "Factions/Faction 3.md",
+    "Factions/Faction 1.md",
+    "Factions",
+    "Anomalies/Anomalies Overview.md",
+    "Anomalies",
     "Overview.md",
     "Worlds/Edenis Prime.md",
     "Worlds/Nexar Prime.md",
     "Worlds/Visual Assets/Nexar Prime.png",
     "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
+    "Worlds/Visual Assets",
     "Pasted image 20240907152742.png",
     "Pasted image 20240907152737.png",
     "Codex/Untitled.md",
+    "Template Manufactory (templates)",
+    "Worlds",
     "Welcome.md"
   ]
 }
