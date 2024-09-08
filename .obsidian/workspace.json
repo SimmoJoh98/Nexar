@@ -11,9 +11,11 @@
             "id": "a771d2df7741b71a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png"
+                "file": "Worlds/Edenis Prime.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png",
+                "file": "Worlds/Edenis Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png",
+                "file": "Worlds/Edenis Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png"
+                "file": "Worlds/Edenis Prime.md"
               }
             }
           }
@@ -146,6 +148,9 @@
   },
   "active": "a771d2df7741b71a",
   "lastOpenFiles": [
+    "Worlds/Nexar Prime.md",
+    "Worlds/Edenis Prime.md",
+    "Worlds/Visual Assets/Nexar/Nexar Prime.png",
     "Worlds/Visual Assets/Nexar/Nexar Prime Pre Impact.png",
     "Worlds/Visual Assets/Edenis/Edenis Prime Alt.png",
     "Worlds/Visual Assets/Edenis/Edenis Prime.png",
@@ -164,9 +169,6 @@
     "Templates/Faction Template.md",
     "Templates/Materials Template.md",
     "Templates/Tech Template.md",
-    "Worlds/Visual Assets/Nexar/Nexar Prime.png",
-    "Worlds/Edenis Prime.md",
-    "Worlds/Nexar Prime.md",
     "Worlds/Visual Assets/Edenis",
     "Worlds/Visual Assets/Nexar",
     "Templates",
