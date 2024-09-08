@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Vehicle Template.md",
+                "file": "Templates/Outfit or Armor Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Vehicle Template.md",
+                "file": "Templates/Outfit or Armor Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Vehicle Template.md",
+                "file": "Templates/Outfit or Armor Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Vehicle Template.md"
+                "file": "Templates/Outfit or Armor Template.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   "active": "a771d2df7741b71a",
   "lastOpenFiles": [
     "Templates/Weapon Template.md",
+    "Templates/Outfit or Armor Template.md",
+    "Worlds/Edenis Prime.md",
+    "Worlds/Nexar Prime.md",
+    "Templates/Character Template.md",
+    "Templates/Vehicle Template.md",
     "Templates/World Template.md",
     "Templates/Anomaly Template.md",
     "Templates/Artifact Template.md",
-    "Templates/Character Template.md",
     "Templates/Event Template.md",
     "Templates/Faction Template.md",
     "Templates/Language Template.md",
@@ -161,8 +165,6 @@
     "Templates/Species or Race Template.md",
     "Templates/Tech Template.md",
     "Templates/Unexplainable Tech or Magic Template.md",
-    "Templates/Vehicle Template.md",
-    "Worlds/Edenis Prime.md",
     "Worlds/Visual Assets/Nexar/Nexar Prime.png",
     "Worlds/Visual Assets/Nexar/Nexar Prime Pre Impact.png",
     "Worlds/Visual Assets/Nexar",
@@ -185,7 +187,6 @@
     "Anomalies",
     "Worlds/Visual Assets/Nexar Prime.png",
     "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
-    "Worlds/Nexar Prime.md",
     "Overview.md",
     "Worlds/Visual Assets",
     "Pasted image 20240907152742.png",
