@@ -11,11 +11,9 @@
             "id": "a771d2df7741b71a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Worlds/Edenis Prime.md",
-                "mode": "source",
-                "source": false
+                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds/Edenis Prime.md",
+                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds/Edenis Prime.md",
+                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds/Edenis Prime.md"
+                "file": "Worlds/Visual Assets/Nexar/Nexar Prime.png"
               }
             }
           }
@@ -148,18 +146,34 @@
   },
   "active": "a771d2df7741b71a",
   "lastOpenFiles": [
+    "Worlds/Visual Assets/Nexar/Nexar Prime Pre Impact.png",
+    "Worlds/Visual Assets/Edenis/Edenis Prime Alt.png",
+    "Worlds/Visual Assets/Edenis/Edenis Prime.png",
+    "Templates/Artifact Template.md",
+    "Tech/Technologies Overview.md",
     "Templates/World Template.md",
+    "Templates/Species or Race Template.md",
+    "Templates/Language Template.md",
+    "Templates/Event Template.md",
+    "Templates/Anomaly Template.md",
+    "Templates/Weapon Template.md",
+    "Templates/Unexplainable Tech or Magic Template.md",
+    "Templates/Organization Template.md",
+    "Templates/Vehicle Template.md",
+    "Templates/Character Template.md",
+    "Templates/Faction Template.md",
     "Templates/Materials Template.md",
     "Templates/Tech Template.md",
-    "Templates/Character Template.md",
-    "Templates/Anomaly Template.md",
-    "Templates/Faction Template.md",
+    "Worlds/Visual Assets/Nexar/Nexar Prime.png",
+    "Worlds/Edenis Prime.md",
+    "Worlds/Nexar Prime.md",
+    "Worlds/Visual Assets/Edenis",
+    "Worlds/Visual Assets/Nexar",
     "Templates",
-    "Tech/Technologies Overview.md",
     "Tech",
     "Notable characters/Notable Characters Overview.md",
     "Notable characters",
-    "Materials/Mitsubishi Materials (Overview).md",
+    "Materials/Materials Overview.md",
     "Materials",
     "Factions/Factions Overview.md",
     "Factions/Faction 2.md",
@@ -169,16 +183,9 @@
     "Anomalies/Anomalies Overview.md",
     "Anomalies",
     "Overview.md",
-    "Worlds/Edenis Prime.md",
-    "Worlds/Nexar Prime.md",
-    "Worlds/Visual Assets/Nexar Prime.png",
-    "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
     "Worlds/Visual Assets",
     "Pasted image 20240907152742.png",
     "Pasted image 20240907152737.png",
-    "Codex/Untitled.md",
-    "Template Manufactory (templates)",
-    "Worlds",
-    "Welcome.md"
+    "Template Manufactory (templates)"
   ]
 }
