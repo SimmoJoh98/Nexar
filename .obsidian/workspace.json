@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Outfit or Armor Template.md",
+                "file": "Worlds/Edenis Prime.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CadenPrime",
+                "query": "tag:#TrialsOfTheCore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Outfit or Armor Template.md",
+                "file": "Worlds/Edenis Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Outfit or Armor Template.md",
+                "file": "Worlds/Edenis Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Outfit or Armor Template.md"
+                "file": "Worlds/Edenis Prime.md"
               }
             }
           }
@@ -133,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a771d2df7741b71a",
+  "active": "2786b9d4acdb01af",
   "lastOpenFiles": [
-    "Templates/Weapon Template.md",
-    "Templates/Outfit or Armor Template.md",
+    "Templates/Sector Template.md",
+    "Templates/Star System Template.md",
     "Worlds/Edenis Prime.md",
+    "Sectors",
+    "Systems",
+    "Templates/World Template.md",
+    "Worlds/Visual Assets/Edenis/Edenis Prime Alt.png",
+    "Worlds/Visual Assets/Edenis/Edenis Prime.png",
+    "Factions/Faction 3.md",
+    "Factions/Faction 2.md",
+    "Factions/Faction 1.md",
+    "Overview.md",
     "Worlds/Nexar Prime.md",
+    "Worlds/Visual Assets/Nexar/Nexar Prime Pre Impact.png",
+    "Worlds/Visual Assets/Nexar/Nexar Prime.png",
+    "Templates/Outfit or Armor Template.md",
+    "Templates/Weapon Template.md",
     "Templates/Character Template.md",
     "Templates/Vehicle Template.md",
-    "Templates/World Template.md",
     "Templates/Anomaly Template.md",
     "Templates/Artifact Template.md",
     "Templates/Event Template.md",
@@ -165,11 +177,7 @@
     "Templates/Species or Race Template.md",
     "Templates/Tech Template.md",
     "Templates/Unexplainable Tech or Magic Template.md",
-    "Worlds/Visual Assets/Nexar/Nexar Prime.png",
-    "Worlds/Visual Assets/Nexar/Nexar Prime Pre Impact.png",
     "Worlds/Visual Assets/Nexar",
-    "Worlds/Visual Assets/Edenis/Edenis Prime.png",
-    "Worlds/Visual Assets/Edenis/Edenis Prime Alt.png",
     "Worlds/Visual Assets/Edenis",
     "Templates",
     "Tech/Technologies Overview.md",
@@ -178,19 +186,11 @@
     "Notable characters",
     "Materials/Materials Overview.md",
     "Materials",
-    "Factions/Faction 3.md",
-    "Factions/Factions Overview.md",
-    "Factions/Faction 2.md",
-    "Factions/Faction 1.md",
     "Factions",
-    "Anomalies/Anomalies Overview.md",
     "Anomalies",
     "Worlds/Visual Assets/Nexar Prime.png",
     "Worlds/Visual Assets/Nexar Prime Pre Impact.png",
-    "Overview.md",
-    "Worlds/Visual Assets",
     "Pasted image 20240907152742.png",
-    "Pasted image 20240907152737.png",
-    "Template Manufactory (templates)"
+    "Pasted image 20240907152737.png"
   ]
 }
